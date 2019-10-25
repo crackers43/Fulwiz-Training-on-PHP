@@ -1,0 +1,15 @@
+table
+{
+    border: 1px double black;  
+    height: 30px; 
+    width: 100%;
+}
+td, th
+{
+    border: black;
+}
+th
+{
+    background-color: green;
+    text-align: center;
+}
